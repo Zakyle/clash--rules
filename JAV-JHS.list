@@ -1,12 +1,16 @@
 # 规则名称: JAV-JHS
-# 规则统计: 4
+# 规则统计: 6
 
 # 核心域名
 DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,jdforrepam.com
+DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,supjav.com
 
 DOMAIN,c0.jdbstatic.com
 DOMAIN,ltx.libray.workers.dev
 
 # 镜像站
 DOMAIN-KEYWORD,javdb
+
+
