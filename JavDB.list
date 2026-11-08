@@ -1,20 +1,12 @@
-# 规则名称: JavDB
-# 规则统计: 12
+# 规则名称: JAV-JHS
+# 规则统计: 4
 
 # 核心域名
 DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,javbus.com
-DOMAIN-SUFFIX,javtrailers.com
-DOMAIN-SUFFIX,javstore.net
-DOMAIN-SUFFIX,javbest.net
-DOMAIN-SUFFIX,missav.live
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,av.gl
-DOMAIN-SUFFIX,jav.rs
-DOMAIN-SUFFIX,javtrailers.com
-DOMAIN-SUFFIX,supjav.com
-DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,jdforrepam.com
 
-DOMAIN,static.cloudflareinsights.com
-DOMAIN,ltx.libray.workers.dev
 DOMAIN,c0.jdbstatic.com
+DOMAIN,ltx.libray.workers.dev
+
+# 镜像站
+DOMAIN-KEYWORD,javdb
